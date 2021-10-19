@@ -1,3 +1,4 @@
+//This is a Google App Script function
 //This function creates a 3 question form
 //Each question is built the same way
 //A random image is chosen and 3 images which have the same similary rank
