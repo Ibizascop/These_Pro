@@ -1,4 +1,4 @@
-//This function create a 3 question form
+//This function creates a 3 question form
 //Each question is built the same way
 //A random image is chosen and 3 images which have the same similary rank
 //compared to the reference image based on the 3 different methods of calcul are taken
