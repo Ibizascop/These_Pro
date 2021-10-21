@@ -70,7 +70,3 @@ def CNN_distances(liste_images,liste_features):
     #return CNN_distances
     CNN_distances.to_csv("./Data/CNN_distances.csv")
 
-CNN_distances()
-
-x = CNN_distances[list(CNN_distances.columns)[0]].sort_values(ascending=True)
-y = x
